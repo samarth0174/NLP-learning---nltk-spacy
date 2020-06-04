@@ -8,5 +8,5 @@ NLP TASKS:
 6. Task 6 - Gender Classification/ POS tagging 
 7. Task7 - Performance of Stemmers ,lemmatizors,Count vecororization
 8. Task 8 - Chunking
-9 Task9  - Cosine Similarity
-10 Task 10 - Chinese Word Tokenisation
+9. Task9  - Cosine Similarity
+10. Task 10 - Chinese Word Tokenisation
